@@ -1,0 +1,21 @@
+body{
+    margin: 15px;
+    padding: 0;
+}
+img{
+    width: 15rem;
+    height: 15rem;
+}
+.img1{
+    display: inline;
+    padding: 90px;
+}
+.img2{
+    display: inline;
+    padding: 90px;
+}
+.img3{
+    display: inline;
+    padding: 90px;
+}
+
